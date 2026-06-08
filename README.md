@@ -2,5 +2,5 @@
 ![Frame](./images/frame.png)
 ![Pendulum](./images/pendulum.png)
 ![Anchor](./images/anchor.png)
-![Pinwheel Stand](./images/pinwheel%20stand.png)
+![Pinwheel Stand](./images/pinwheel_stand.png)
 ![Assembly](./images/assembly.png)
