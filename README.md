@@ -1,0 +1,6 @@
+![Pinwheel](./images/pinwheel.png)
+![Frame](./images/frame.png)
+![Pendulum](./images/pendulum.png)
+![Anchor](./images/anchor.png)
+![Pinwheel Stand](./images/pinwheel%20stand.png)
+![Assembly](./images/assembly.png)
